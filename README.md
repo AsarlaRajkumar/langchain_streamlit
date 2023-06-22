@@ -57,4 +57,4 @@ Inspiration: [nicknochnack's Leveraging Your Own Documents in a Langchain Pipeli
 [OpenAI API](https://beta.openai.com/docs/)
 
 # Info
-👨🏾‍💻 Author: Jirat Chiaranaipanich
+👨🏾‍💻 Author: Asarla Rajkumar Yadav
