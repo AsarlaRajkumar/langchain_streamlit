@@ -1,4 +1,4 @@
-# Import os to set API key
+# Import os to set API key.
 import os
 import langchain
 import PyPDF2
