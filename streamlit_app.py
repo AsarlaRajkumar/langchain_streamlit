@@ -184,6 +184,7 @@ def main():
     with st.expander('Document Similarity Search'):
             search = st.session_state.store.similarity_search_with_score(prompt) 
             st.write(search[0][0].page_content) 
+    # comment the below lines of code
     # if len(st.session_state.past_queries) > 0:
     #     st.subheader('Past Queries and Answers')
     #     for i, (query, answer) in enumerate(zip(st.session_state.past_queries, st.session_state.past_answers)):
